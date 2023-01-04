@@ -17,7 +17,7 @@ namespace SuperHeroAPI.Controllers
                     Name = "Spider Man",
                     FirstName = "Peter",
                     LastName = "Parker",
-                    Place = "NEw Yourk City"
+                    Place = "New Yourk City"
                 }
             };
 
