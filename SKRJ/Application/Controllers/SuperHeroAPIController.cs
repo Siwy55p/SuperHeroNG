@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SuperHeroAPI.Models;
 
 namespace SuperHeroAPI.Controllers
 {
@@ -20,7 +21,6 @@ namespace SuperHeroAPI.Controllers
                     Place = "New Yourk City"
                 }
             };
-
         }
     }
 }
